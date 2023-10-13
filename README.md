@@ -11,7 +11,7 @@ This sample demonstrates how to refactor the calculator API with MVC (Model View
 1. Clone the repository with this branch.
 
 ```shell
-git clone -b refactor-mvc <CLONE URL>
+git clone -b main <CLONE URL>
 ```
 
 2. Install dependencies.
