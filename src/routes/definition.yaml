@@ -1,0 +1,10 @@
+openapi: '3.0.3'
+paths: {}
+info:
+  title: 'Calculator API'
+  version: '1.0.0'
+tags:
+  - name: health
+    description: Health check
+  - name: calculator
+    description: Calculator operations
